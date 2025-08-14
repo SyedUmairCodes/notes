@@ -69,3 +69,11 @@ In return, an **HTTP response** is sent back, consisting of an integer **status 
 | 300         | The request is incomplete, the server needs more context |
 | 400         | Client-side errors or invalid requests sent              |
 | 500         | Server-side errors or server unavailable.                |
+
+---
+
+## JSON:API and GraphQL
+
+While the combination of RESTful design principles and JSON data formats is a prevalent standard in modern web development, there remains some flexibility and potential for ambiguity in their implementation. The `JSON:API` specification was developed to address this by providing a more rigorous and standardized approach to building APIs with JSON.
+
+GraphQL was developed by Meta as an alternative to RESTful interfaces, specifically to provide more flexible ways to query data from web services. RESTful designs can sometimes be cumbersome for certain use cases, particularly when clients need to fetch data from multiple resources or require only specific fields from a resource. GraphQL addresses this by allowing clients to specify exactly what data they need, enabling them to retrieve all required information in a single request.
