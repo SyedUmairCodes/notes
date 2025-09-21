@@ -27,7 +27,7 @@ Retrieval Augmented Generation (RAG) is another advanced technique for refining 
 - The retrieved relevant context is then passed along with the original prompt to the generative model.
 - The generative model then produces a response that is grounded in the provided context, leading to more accurate, detailed, and specific answers than if it had to rely only on its generalized training data.    
 
-RAG is highly beneficial when:
+**RAG is highly beneficial when:**
 
 - The user has a massive amount of potential context that cannot be fully included in a single prompt due to length limitations.
 - Pasting too much information into a prompt would lead to "diminishing returns" in model performance, as models can struggle with excessively long inputs.

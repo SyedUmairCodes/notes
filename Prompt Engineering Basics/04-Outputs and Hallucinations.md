@@ -5,8 +5,8 @@ Despite employing various prompting techniques, generative models do not always 
 These inaccuracies are examples of hallucinations, which occur when generative models produce inaccurate, irrelevant, or nonsensical content, whether in images or text. All generative models are prone to hallucination.
 
 This phenomenon necessitates caution when using these models. While some outputs, like a simple email, can be easily verified by a human, larger or more fact-dependent tasks pose a significant challenge.
-## Verifying Generative Model Outputs
 
+## Verifying Generative Model Outputs
 To boost confidence in AI-generated outputs and understand their accuracy level, A human who's an expert in the field should review the outputs for important documents and tasks.When dealing with tasks that have a "right answer" and are performed repeatedly have a collection of "correct responses" for quicker verification.
 
 > [!NOTE]

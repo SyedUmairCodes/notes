@@ -1,0 +1,11 @@
+{
+  "accentColor": "#1b80f9",
+  "interfaceFontFamily": "TT Interphases Pro Trl",
+  "textFontFamily": "TT Interphases Pro Trl",
+  "monospaceFontFamily": "TT Interphases Pro Mono Trl",
+  "showViewHeader": true,
+  "showRibbon": false,
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "baseFontSize": 18
+}

@@ -7,7 +7,7 @@ Python supports standard arithmetic operations: `addition (+), subtraction (-), 
 
 >[!IMPORTANT]
 >If an integer and a floating-point number are mixed in an operation the result will always be a floating-point number.
-    
+
 For addition, subtraction, and multiplication of two integers, the result will always be an integer. For division (/) of two integers, the result will always be a floating-point number, even if the mathematical answer is a whole number . This is because not all integer divisions yield an integer result, whereas other operations between integers always do.
 ## Additional Operators
 
