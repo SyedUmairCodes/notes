@@ -1,3 +1,5 @@
+# Introduction to Databases
+
 You can create a new database using a simple SQL command:
 
 ```sql

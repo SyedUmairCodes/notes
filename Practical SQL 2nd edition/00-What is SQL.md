@@ -1,3 +1,4 @@
+# Introduction
 SQL (Structured Query Language) is a programming language used for managing data in database systems. It's particularly useful for relational databases, where data is organized into tables with rows and columns.
 
 >[!NOTE]
