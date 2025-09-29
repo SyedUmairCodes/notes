@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "02c199b28ada7ac9",
+        "id": "8c97fb9126815db0",
         "type": "tabs",
         "children": [
           {
-            "id": "276e8fee14765848",
+            "id": "de3e4d3b543cd404",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -47,7 +47,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "d243704efb75d8b2",
@@ -90,8 +91,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f4c72b189922ff2b",
+  "active": "de3e4d3b543cd404",
   "lastOpenFiles": [
+    "Grokking Data Structures/01-Chapter one.md",
+    "Grokking Data Structures",
+    "AWS BI Nanodegree/assets/student_major_years.png",
+    "AWS BI Nanodegree/assets/Student_type.png",
+    "AWS BI Nanodegree/assets",
+    "AWS BI Nanodegree/Project_one.md",
     "Datacamp/assets/dataprocess.png",
     "Datacamp/assets",
     "Datacamp/Understanding Data Engineering/03-Processing Data.md",
@@ -127,9 +134,6 @@
     "JavaScript Simplified/02-Data Types.md",
     "JavaScript Simplified/01-Variables.md",
     "JavaScript Simplified",
-    "FastAPI - Bill Lubanovic/01-The Modern Web.md",
-    "Python Essentials - Trey Hunner/04-Variables.md",
-    "Data Engineering Fundamentals",
-    "Prompt Engineering Basics"
+    "FastAPI - Bill Lubanovic/01-The Modern Web.md"
   ]
 }

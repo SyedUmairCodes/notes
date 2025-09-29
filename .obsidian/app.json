@@ -3,5 +3,11 @@
   "foldIndent": false,
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
