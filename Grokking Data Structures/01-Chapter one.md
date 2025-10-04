@@ -15,6 +15,15 @@ In our times, we are flooded with information and always overwhelmed by the shee
 > 
 > Some data structures are specifically designed to allow the efficient execution of certain algorithms, such as hash tables for key-based search.
 
+Data Structures are a core part of computer science.  They  are used to organize data, solve difficult problems, improve efficiency, optimize memory usage, and avoid security risks.
+
+> Graph based neural networks and machine learning which are the current trends in tech all use data structures as their foundations.
+> 
+> The database landscape is also evolving, and the concept of _flexible indexing_ has recently been introduced. This is an indexing model based on data structures that can be nested in any combination and at any depth.
+
+
+
+
 
 
 

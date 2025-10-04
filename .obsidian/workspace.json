@@ -11,10 +11,14 @@
             "id": "de3e4d3b543cd404",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AWS BI Nanodegree/02-Amazon Q.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "02-Amazon Q"
             }
           }
         ]
@@ -47,8 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "d243704efb75d8b2",
@@ -93,6 +96,7 @@
   },
   "active": "de3e4d3b543cd404",
   "lastOpenFiles": [
+    "AWS BI Nanodegree/01-Amazon Quicksight.md",
     "Grokking Data Structures/01-Chapter one.md",
     "Grokking Data Structures",
     "AWS BI Nanodegree/assets/student_major_years.png",
@@ -133,7 +137,6 @@
     "JavaScript Simplified/03-Comments.md",
     "JavaScript Simplified/02-Data Types.md",
     "JavaScript Simplified/01-Variables.md",
-    "JavaScript Simplified",
-    "FastAPI - Bill Lubanovic/01-The Modern Web.md"
+    "JavaScript Simplified"
   ]
 }
