@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8c97fb9126815db0",
+        "id": "e28b3cfb56281d00",
         "type": "tabs",
         "children": [
           {
-            "id": "de3e4d3b543cd404",
+            "id": "6207bee6a2a5e704",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS BI Nanodegree/02-Amazon Q.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "02-Amazon Q"
+              "title": "New tab"
             }
           }
         ]
@@ -94,8 +90,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "de3e4d3b543cd404",
+  "active": "6207bee6a2a5e704",
   "lastOpenFiles": [
+    "Grokking Data Structures/02-Chapter two.md",
+    "AWS BI Nanodegree/02-Amazon Q.md",
     "AWS BI Nanodegree/01-Amazon Quicksight.md",
     "Grokking Data Structures/01-Chapter one.md",
     "Grokking Data Structures",
@@ -135,8 +133,6 @@
     "JavaScript Simplified/00-History of JavaScript.md",
     "JavaScript Simplified/04-Comparison Operators.md",
     "JavaScript Simplified/03-Comments.md",
-    "JavaScript Simplified/02-Data Types.md",
-    "JavaScript Simplified/01-Variables.md",
     "JavaScript Simplified"
   ]
 }
